@@ -1,5 +1,22 @@
-.header{
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+html{
+  height: 100%;
+}
+body { 
+  min-height: 100%;
+  width: 100%;
+}
+header{
   width: 1105px;
   height: 130px;
   background-color: #1E2022;;
+}
+footer{
+  height: 551px;
+  background: #1E2022;
 }
